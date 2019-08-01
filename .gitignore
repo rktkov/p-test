@@ -61,6 +61,7 @@ typings/
 .next
 
 # IDEs and editors
+.idea
 /.idea
 .project
 .classpath

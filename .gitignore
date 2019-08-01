@@ -70,5 +70,5 @@ typings/
 *.sublime-workspace
 
 #app data folders
-./_data/
-./_cron_data/
+_data
+_cron_data
